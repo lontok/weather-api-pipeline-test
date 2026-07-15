@@ -1,61 +1,61 @@
 zip_code,city,region,date,max_temp_f,min_temp_f,condition
-90045,Los Angeles,California,2026-07-14,83.0,63.9,Sunny
-90045,Los Angeles,California,2026-07-15,83.5,72.2,Sunny
-90045,Los Angeles,California,2026-07-16,81.8,72.4,Sunny
-10001,New York,New York,2026-07-14,98.1,67.6,Sunny
-10001,New York,New York,2026-07-15,101.8,77.7,Sunny
-10001,New York,New York,2026-07-16,96.1,78.8,Sunny
-60601,Chicago,Illinois,2026-07-14,88.0,75.0,Sunny
-60601,Chicago,Illinois,2026-07-15,89.2,75.5,Sunny
-60601,Chicago,Illinois,2026-07-16,85.5,76.7,Partly Cloudy
-98101,Seattle,Washington,2026-07-14,83.1,53.8,Sunny
-98101,Seattle,Washington,2026-07-15,85.0,57.2,Sunny
-98101,Seattle,Washington,2026-07-16,87.3,56.2,Sunny
-33101,Miami,Florida,2026-07-14,92.5,76.1,Sunny
-33101,Miami,Florida,2026-07-15,88.5,83.3,Sunny
-33101,Miami,Florida,2026-07-16,88.9,84.3,Sunny
-77001,Houston,Texas,2026-07-14,77.6,75.2,Patchy rain nearby
-77001,Houston,Texas,2026-07-15,76.5,72.0,Partly Cloudy
-77001,Houston,Texas,2026-07-16,85.4,74.3,Light rain shower
-85001,Phoenix,Arizona,2026-07-14,106.2,78.1,Sunny
-85001,Phoenix,Arizona,2026-07-15,106.1,89.6,Sunny
-85001,Phoenix,Arizona,2026-07-16,97.2,85.9,Patchy rain nearby
-19101,Philadelphia,Pennsylvania,2026-07-14,93.4,66.9,Sunny
-19101,Philadelphia,Pennsylvania,2026-07-15,99.3,74.5,Sunny
-19101,Philadelphia,Pennsylvania,2026-07-16,96.1,76.2,Sunny
-78201,San Antonio,Texas,2026-07-14,86.0,71.8,Patchy rain nearby
-78201,San Antonio,Texas,2026-07-15,77.4,71.2,Patchy rain nearby
-78201,San Antonio,Texas,2026-07-16,73.6,69.9,Light rain shower
-92101,San Diego,California,2026-07-14,80.3,65.7,Sunny
-92101,San Diego,California,2026-07-15,80.8,72.3,Sunny
-92101,San Diego,California,2026-07-16,78.0,71.6,Sunny
-75201,Dallas,Texas,2026-07-14,89.1,77.2,Sunny
-75201,Dallas,Texas,2026-07-15,89.9,74.9,Partly Cloudy
-75201,Dallas,Texas,2026-07-16,79.9,74.8,Partly Cloudy
-95101,San Jose,California,2026-07-14,95.2,60.3,Sunny
-95101,San Jose,California,2026-07-15,92.7,58.2,Sunny
-95101,San Jose,California,2026-07-16,85.6,54.6,Sunny
-78701,Austin,Texas,2026-07-14,86.9,74.4,Sunny
-78701,Austin,Texas,2026-07-15,79.8,72.3,Partly Cloudy
-78701,Austin,Texas,2026-07-16,73.4,70.0,Partly Cloudy
-32099,Jacksonville,Florida,2026-07-14,90.8,76.1,Sunny
-32099,Jacksonville,Florida,2026-07-15,96.5,75.0,Partly Cloudy
-32099,Jacksonville,Florida,2026-07-16,95.7,77.7,Partly Cloudy
-43215,Columbus,Ohio,2026-07-14,95.2,70.2,Sunny
-43215,Columbus,Ohio,2026-07-15,92.5,71.5,Sunny
-43215,Columbus,Ohio,2026-07-16,92.9,74.0,Sunny
-46201,Indianapolis,Indiana,2026-07-14,94.3,66.9,Sunny
-46201,Indianapolis,Indiana,2026-07-15,92.0,71.8,Sunny
-46201,Indianapolis,Indiana,2026-07-16,91.9,74.2,Sunny
-94102,San Francisco,California,2026-07-14,70.2,55.6,Sunny
-94102,San Francisco,California,2026-07-15,65.9,55.6,Sunny
-94102,San Francisco,California,2026-07-16,64.8,55.7,Sunny
-28201,Charlotte,North Carolina,2026-07-14,85.5,70.7,Patchy rain nearby
-28201,Charlotte,North Carolina,2026-07-15,94.8,70.8,Sunny
-28201,Charlotte,North Carolina,2026-07-16,98.8,74.7,Sunny
-80201,Denver,Colorado,2026-07-14,95.3,68.2,Sunny
-80201,Denver,Colorado,2026-07-15,94.9,67.7,Sunny
-80201,Denver,Colorado,2026-07-16,94.3,68.6,Sunny
-20001,Washington,District of Columbia,2026-07-14,96.3,67.3,Sunny
-20001,Washington,District of Columbia,2026-07-15,101.1,70.6,Sunny
-20001,Washington,District of Columbia,2026-07-16,97.8,75.2,Sunny
+90045,Los Angeles,California,2026-07-15,83.0,62.8,Sunny
+90045,Los Angeles,California,2026-07-16,82.1,72.2,Sunny
+90045,Los Angeles,California,2026-07-17,76.8,70.3,Partly Cloudy
+10001,New York,New York,2026-07-15,104.0,73.0,Sunny
+10001,New York,New York,2026-07-16,95.8,78.6,Sunny
+10001,New York,New York,2026-07-17,89.1,74.8,Sunny
+60601,Chicago,Illinois,2026-07-15,88.7,76.5,Sunny
+60601,Chicago,Illinois,2026-07-16,85.1,74.3,Sunny
+60601,Chicago,Illinois,2026-07-17,86.3,75.4,Sunny
+98101,Seattle,Washington,2026-07-15,83.2,56.7,Sunny
+98101,Seattle,Washington,2026-07-16,68.0,55.1,Patchy rain nearby
+98101,Seattle,Washington,2026-07-17,79.4,50.8,Sunny
+33101,Miami,Florida,2026-07-15,95.7,76.8,Sunny
+33101,Miami,Florida,2026-07-16,89.7,83.2,Sunny
+33101,Miami,Florida,2026-07-17,89.8,83.8,Sunny
+77001,Houston,Texas,2026-07-15,89.2,74.3,Sunny
+77001,Houston,Texas,2026-07-16,93.0,75.9,Patchy rain nearby
+77001,Houston,Texas,2026-07-17,94.6,78.4,Sunny
+85001,Phoenix,Arizona,2026-07-15,107.0,85.1,Sunny
+85001,Phoenix,Arizona,2026-07-16,101.1,88.7,Sunny
+85001,Phoenix,Arizona,2026-07-17,100.6,83.7,Partly Cloudy
+19101,Philadelphia,Pennsylvania,2026-07-15,99.0,72.7,Sunny
+19101,Philadelphia,Pennsylvania,2026-07-16,96.5,76.9,Sunny
+19101,Philadelphia,Pennsylvania,2026-07-17,91.2,73.8,Sunny
+78201,San Antonio,Texas,2026-07-15,76.8,71.7,Patchy rain nearby
+78201,San Antonio,Texas,2026-07-16,76.5,71.1,Light rain shower
+78201,San Antonio,Texas,2026-07-17,85.9,70.2,Partly Cloudy
+92101,San Diego,California,2026-07-15,79.7,65.8,Sunny
+92101,San Diego,California,2026-07-16,77.8,71.4,Sunny
+92101,San Diego,California,2026-07-17,74.8,70.4,Sunny
+75201,Dallas,Texas,2026-07-15,91.4,73.8,Sunny
+75201,Dallas,Texas,2026-07-16,86.6,75.8,Partly Cloudy
+75201,Dallas,Texas,2026-07-17,89.7,72.9,Patchy rain nearby
+95101,San Jose,California,2026-07-15,94.1,61.9,Sunny
+95101,San Jose,California,2026-07-16,88.1,55.8,Sunny
+95101,San Jose,California,2026-07-17,89.2,53.4,Sunny
+78701,Austin,Texas,2026-07-15,81.1,72.7,Partly Cloudy
+78701,Austin,Texas,2026-07-16,77.1,72.1,Light rain shower
+78701,Austin,Texas,2026-07-17,91.3,70.8,Partly Cloudy
+32099,Jacksonville,Florida,2026-07-15,98.0,76.1,Sunny
+32099,Jacksonville,Florida,2026-07-16,96.7,80.3,Partly Cloudy
+32099,Jacksonville,Florida,2026-07-17,99.6,79.5,Sunny
+43215,Columbus,Ohio,2026-07-15,98.8,71.2,Sunny
+43215,Columbus,Ohio,2026-07-16,93.4,74.5,Sunny
+43215,Columbus,Ohio,2026-07-17,83.2,70.3,Patchy rain nearby
+46201,Indianapolis,Indiana,2026-07-15,98.1,73.0,Sunny
+46201,Indianapolis,Indiana,2026-07-16,91.3,74.2,Sunny
+46201,Indianapolis,Indiana,2026-07-17,85.0,72.2,Partly Cloudy
+94102,San Francisco,California,2026-07-15,68.0,56.8,Sunny
+94102,San Francisco,California,2026-07-16,65.0,56.3,Sunny
+94102,San Francisco,California,2026-07-17,62.7,55.5,Partly Cloudy
+28201,Charlotte,North Carolina,2026-07-15,99.3,68.7,Sunny
+28201,Charlotte,North Carolina,2026-07-16,101.6,75.0,Sunny
+28201,Charlotte,North Carolina,2026-07-17,104.1,78.3,Sunny
+80201,Denver,Colorado,2026-07-15,93.4,67.6,Sunny
+80201,Denver,Colorado,2026-07-16,93.8,66.9,Sunny
+80201,Denver,Colorado,2026-07-17,95.3,69.7,Sunny
+20001,Washington,District of Columbia,2026-07-15,105.3,72.1,Sunny
+20001,Washington,District of Columbia,2026-07-16,98.3,76.0,Sunny
+20001,Washington,District of Columbia,2026-07-17,95.0,71.6,Sunny
