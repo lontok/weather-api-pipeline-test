@@ -1,61 +1,61 @@
 zip_code,city,region,date,max_temp_f,min_temp_f,condition
-90045,Los Angeles,California,2026-09-22,73.2,65.1,Sunny
-90045,Los Angeles,California,2026-09-23,76.6,67.7,Sunny
-90045,Los Angeles,California,2026-09-24,77.4,68.7,Sunny
-10001,New York,New York,2026-09-22,66.4,60.0,Patchy rain nearby
-10001,New York,New York,2026-09-23,65.3,55.5,Overcast
-10001,New York,New York,2026-09-24,68.3,53.6,Overcast
-60601,Chicago,Illinois,2026-09-22,62.2,56.0,Sunny
-60601,Chicago,Illinois,2026-09-23,61.2,58.9,Patchy rain nearby
-60601,Chicago,Illinois,2026-09-24,63.6,58.8,Overcast
-98101,Seattle,Washington,2026-09-22,67.1,55.0,Overcast
-98101,Seattle,Washington,2026-09-23,68.3,49.4,Overcast
-98101,Seattle,Washington,2026-09-24,58.5,51.5,Overcast
-33101,Miami,Florida,2026-09-22,87.2,82.6,Light rain shower
-33101,Miami,Florida,2026-09-23,86.9,80.4,Overcast
-33101,Miami,Florida,2026-09-24,83.3,78.9,Patchy rain nearby
-77001,Houston,Texas,2026-09-22,96.4,79.8,Sunny
-77001,Houston,Texas,2026-09-23,96.7,80.4,Sunny
-77001,Houston,Texas,2026-09-24,96.8,80.7,Sunny
-85001,Phoenix,Arizona,2026-09-22,94.1,82.2,Overcast
-85001,Phoenix,Arizona,2026-09-23,91.7,80.4,Overcast
-85001,Phoenix,Arizona,2026-09-24,95.5,74.9,Sunny
-19101,Philadelphia,Pennsylvania,2026-09-22,64.2,55.4,Light rain shower
-19101,Philadelphia,Pennsylvania,2026-09-23,63.4,54.1,Patchy rain nearby
-19101,Philadelphia,Pennsylvania,2026-09-24,65.4,52.3,Overcast
-78201,San Antonio,Texas,2026-09-22,94.9,75.6,Sunny
-78201,San Antonio,Texas,2026-09-23,93.9,75.6,Patchy rain nearby
-78201,San Antonio,Texas,2026-09-24,92.3,76.1,Sunny
-92101,San Diego,California,2026-09-22,72.0,68.4,Sunny
-92101,San Diego,California,2026-09-23,72.9,68.9,Sunny
-92101,San Diego,California,2026-09-24,73.9,69.3,Sunny
-75201,Dallas,Texas,2026-09-22,98.6,78.8,Sunny
-75201,Dallas,Texas,2026-09-23,96.4,77.5,Overcast
-75201,Dallas,Texas,2026-09-24,95.3,74.2,Overcast
-95101,San Jose,California,2026-09-22,86.2,52.4,Sunny
-95101,San Jose,California,2026-09-23,90.8,55.9,Sunny
-95101,San Jose,California,2026-09-24,89.9,59.2,Sunny
-78701,Austin,Texas,2026-09-22,97.0,76.9,Overcast
-78701,Austin,Texas,2026-09-23,96.4,77.9,Overcast
-78701,Austin,Texas,2026-09-24,98.3,78.5,Overcast
-32099,Jacksonville,Florida,2026-09-22,94.5,76.4,Sunny
-32099,Jacksonville,Florida,2026-09-23,94.3,77.5,Sunny
-32099,Jacksonville,Florida,2026-09-24,83.4,73.5,Patchy rain nearby
-43215,Columbus,Ohio,2026-09-22,61.8,55.3,Overcast
-43215,Columbus,Ohio,2026-09-23,59.6,54.5,Light rain shower
-43215,Columbus,Ohio,2026-09-24,67.4,53.0,Sunny
-46201,Indianapolis,Indiana,2026-09-22,64.1,58.1,Patchy rain nearby
-46201,Indianapolis,Indiana,2026-09-23,61.0,56.5,Patchy rain nearby
-46201,Indianapolis,Indiana,2026-09-24,68.0,58.1,Overcast
-94102,San Francisco,California,2026-09-22,63.1,57.1,Sunny
-94102,San Francisco,California,2026-09-23,66.3,58.1,Sunny
-94102,San Francisco,California,2026-09-24,64.4,58.2,Sunny
-28201,Charlotte,North Carolina,2026-09-22,82.8,67.4,Light rain shower
-28201,Charlotte,North Carolina,2026-09-23,66.9,57.3,Patchy rain nearby
-28201,Charlotte,North Carolina,2026-09-24,67.7,55.8,Light rain shower
-80201,Denver,Colorado,2026-09-22,80.8,56.2,Sunny
-80201,Denver,Colorado,2026-09-23,72.7,60.0,Overcast
-80201,Denver,Colorado,2026-09-24,75.7,58.6,Overcast
-20001,Washington,District of Columbia,2026-09-22,67.3,57.3,Light rain shower
-20001,Washington,District of Columbia,2026-09-23,63.4,53.6,Light rain shower
-20001,Washington,District of Columbia,2026-09-24,63.8,55.0,Overcast
+90045,Los Angeles,California,2026-09-23,77.7,68.7,Sunny
+90045,Los Angeles,California,2026-09-24,78.0,69.4,Sunny
+90045,Los Angeles,California,2026-09-25,79.1,69.7,Overcast
+10001,New York,New York,2026-09-23,67.4,56.2,Overcast
+10001,New York,New York,2026-09-24,68.8,53.0,Overcast
+10001,New York,New York,2026-09-25,68.6,55.9,Overcast
+60601,Chicago,Illinois,2026-09-23,62.2,58.1,Overcast
+60601,Chicago,Illinois,2026-09-24,65.1,58.5,Overcast
+60601,Chicago,Illinois,2026-09-25,63.4,57.9,Overcast
+98101,Seattle,Washington,2026-09-23,68.8,50.2,Overcast
+98101,Seattle,Washington,2026-09-24,61.2,50.5,Overcast
+98101,Seattle,Washington,2026-09-25,61.7,50.4,Light rain shower
+33101,Miami,Florida,2026-09-23,84.7,78.1,Light rain shower
+33101,Miami,Florida,2026-09-24,90.4,80.0,Light rain shower
+33101,Miami,Florida,2026-09-25,88.5,78.4,Patchy rain nearby
+77001,Houston,Texas,2026-09-23,97.2,81.2,Sunny
+77001,Houston,Texas,2026-09-24,97.0,81.2,Sunny
+77001,Houston,Texas,2026-09-25,96.5,76.9,Sunny
+85001,Phoenix,Arizona,2026-09-23,90.2,78.9,Patchy rain nearby
+85001,Phoenix,Arizona,2026-09-24,94.3,77.4,Sunny
+85001,Phoenix,Arizona,2026-09-25,92.0,76.6,Sunny
+19101,Philadelphia,Pennsylvania,2026-09-23,64.5,55.7,Overcast
+19101,Philadelphia,Pennsylvania,2026-09-24,67.2,50.5,Overcast
+19101,Philadelphia,Pennsylvania,2026-09-25,73.2,52.4,Sunny
+78201,San Antonio,Texas,2026-09-23,94.9,75.4,Patchy rain nearby
+78201,San Antonio,Texas,2026-09-24,94.1,76.3,Sunny
+78201,San Antonio,Texas,2026-09-25,95.1,75.5,Sunny
+92101,San Diego,California,2026-09-23,73.3,69.3,Sunny
+92101,San Diego,California,2026-09-24,74.2,69.6,Sunny
+92101,San Diego,California,2026-09-25,76.2,70.9,Sunny
+75201,Dallas,Texas,2026-09-23,95.9,77.4,Overcast
+75201,Dallas,Texas,2026-09-24,95.9,76.4,Overcast
+75201,Dallas,Texas,2026-09-25,95.2,74.8,Overcast
+95101,San Jose,California,2026-09-23,88.8,55.1,Sunny
+95101,San Jose,California,2026-09-24,91.8,60.9,Overcast
+95101,San Jose,California,2026-09-25,80.3,56.4,Sunny
+78701,Austin,Texas,2026-09-23,96.9,77.8,Overcast
+78701,Austin,Texas,2026-09-24,98.7,78.4,Overcast
+78701,Austin,Texas,2026-09-25,97.9,77.3,Sunny
+32099,Jacksonville,Florida,2026-09-23,91.7,77.7,Patchy rain nearby
+32099,Jacksonville,Florida,2026-09-24,84.0,71.9,Patchy rain nearby
+32099,Jacksonville,Florida,2026-09-25,82.9,65.5,Sunny
+43215,Columbus,Ohio,2026-09-23,57.8,54.1,Light rain shower
+43215,Columbus,Ohio,2026-09-24,66.2,52.6,Sunny
+43215,Columbus,Ohio,2026-09-25,66.6,51.2,Overcast
+46201,Indianapolis,Indiana,2026-09-23,65.3,57.2,Overcast
+46201,Indianapolis,Indiana,2026-09-24,66.6,57.9,Overcast
+46201,Indianapolis,Indiana,2026-09-25,65.5,54.2,Overcast
+94102,San Francisco,California,2026-09-23,66.2,57.8,Sunny
+94102,San Francisco,California,2026-09-24,63.6,58.9,Overcast
+94102,San Francisco,California,2026-09-25,62.9,57.1,Sunny
+28201,Charlotte,North Carolina,2026-09-23,66.0,58.9,Patchy rain nearby
+28201,Charlotte,North Carolina,2026-09-24,61.2,55.3,Patchy rain nearby
+28201,Charlotte,North Carolina,2026-09-25,71.9,51.1,Sunny
+80201,Denver,Colorado,2026-09-23,71.8,61.7,Overcast
+80201,Denver,Colorado,2026-09-24,74.5,59.0,Overcast
+80201,Denver,Colorado,2026-09-25,76.0,56.8,Sunny
+20001,Washington,District of Columbia,2026-09-23,68.5,59.0,Overcast
+20001,Washington,District of Columbia,2026-09-24,67.3,55.1,Overcast
+20001,Washington,District of Columbia,2026-09-25,73.1,51.6,Sunny
